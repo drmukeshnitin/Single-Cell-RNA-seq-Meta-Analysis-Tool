@@ -72,13 +72,18 @@ cd scRNA_folder/
      
       streamlit run app.py
  
- For downloading samples- User can use own single cell transcriptomic data to compare for metaanalysis
- or Take NCBI GEO dataset available scRNA dataset
- eg. In this study we used NCBİ GEO dataset to do scRNAs metaanalysis from case study https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE242780
-   case study 1 sample 1- GSM7770408.zip 
-   case study 2 sample 2- GSM7770409.zip
+      For downloading samples- User can use own single cell transcriptomic data to compare for metaanalysis
+          or Take NCBI GEO dataset available scRNA dataset
+ 
+       eg. In this study we used NCBİ GEO dataset to do scRNAs metaanalysis from case study https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE242780
+       
+       case study 1 sample 1- GSM7770408.zip 
+      
+       case study 2 sample 2- GSM7770409.zip
+                          
                           with files barcodes.tsv, genes.tsv, matrıx.mtx
-These files are big so cann't be uploaded in github
+         
+         These files are big so cann't be uploaded in github
                          
 Open your browser to http://localhost:8501 and start analyzing! 
 📊 Example Workflow 
