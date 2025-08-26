@@ -114,12 +114,6 @@ Open your browser to http://localhost:8501 and start analyzing!
      Report issues or suggest improvements via GitHub.  
      Contribute code or documentation to expand functionality.
      
-
-📖 Citation 
-
-If you use MetaSC in your work, please cite:   
-
-    [Your Name], et al. "A Unified Computational Framework for Batch-Adjusted Single-Cell RNA-seq Meta-Analysis." Journal Name, DOI: 10.xxxx/xxxxxx (2024).   
      
 
 🌐 Acknowledgments 
@@ -129,7 +123,8 @@ If you use MetaSC in your work, please cite:
      
 
 License: MIT
-Maintained by: [Your Name/Organization]   
+
+Maintained by: Digianalix
 📌 Table of Contents 
 
      Installation   
