@@ -1,8 +1,5 @@
-single-cell RNA-seq meta-analysis pipeline
-🚀 What is MetaSC? 
-
-
-MetaSC is an open-source toolkit for batch-corrected single-cell RNA-seq meta-analysis, designed to:   
+single-cell RNA-seq meta-analysis Tool
+designed to:   
 
      Integrate heterogeneous datasets from multiple labs/platforms.  
      Identify conserved cell clusters and differentially expressed genes (DEGs) across batches.  
