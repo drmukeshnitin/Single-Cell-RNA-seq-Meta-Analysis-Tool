@@ -10,6 +10,8 @@ designed to:
 
      
 
+
+
 Built with Scanpy, Harmony, and Streamlit, MetaSC bridges computational complexity and biological insight, enabling reproducible meta-analyses even for non-experts. 
 🔍 Key Features 
 🧪 Core Analysis Pipeline 
@@ -21,6 +23,9 @@ Built with Scanpy, Harmony, and Streamlit, MetaSC bridges computational complexi
 .  
  Conserved DEGs: Identifies genes consistently dysregulated across batches, reducing technical noise 
 
+<img width="3706" height="1944" alt="Screenshot from 2025-08-26 11-26-48" src="https://github.com/user-attachments/assets/6bd30688-8219-418c-9195-66bfec2b23b7" />
+
+<img width="3583" height="1046" alt="Screenshot from 2025-08-26 11-27-02" src="https://github.com/user-attachments/assets/c15a73f8-2732-4732-aabe-7324d2f7e73a" />
     .
      
 
@@ -51,28 +56,16 @@ Built with Scanpy, Harmony, and Streamlit, MetaSC bridges computational complexi
 
 📦 Quick Start 
 Installation 
-bash
- 
- 
- 
-1
-2
-3
-4
-5
+bash command-
 pip install metasc  # Coming soon to PyPI!
-# Or from source:
+
 git clone https://github.com/your-username/metascrepo.git
 cd metascrepo
 pip install -r requirements.txt
  
  
 Run the Dashboard 
-bash
- 
- 
- 
-1
+bash Command
 streamlit run app.py
  
  
@@ -125,10 +118,13 @@ Open your browser to http://localhost:8501 and start analyzing!
 License: MIT
 
 Maintained by: Digianalix
-📌 Table of Contents 
+This project is licensed under the MIT License.
 
-     Installation   
-     Usage   
-     Documentation   
-     Contributing 
+For any issues or suggestions, please reach out to:
+
+Author: Dr Mukesh nitin
+Email: drrmukeshnitin@gmail.com
+https://github.com/drmukeshnitin/Single-Cell-RNA-seq-Meta-Analysis-Tool
+
+
      
