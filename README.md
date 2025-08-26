@@ -55,18 +55,22 @@ Built with Scanpy, Harmony, and Streamlit, MetaSC bridges computational complexi
      
 
 📦 Quick Start 
-Installation 
-bash command-
-pip install metasc  # Coming soon to PyPI!
+     
+     Installation 
+     bash command-
+     pip install metasc  # Coming soon to PyPI!
 
-git clone https://github.com/your-username/metascrepo.git
-cd metascrepo
-pip install -r requirements.txt
+     git clone https://github.com/your-username/metascrepo.git
+cd scRNA_folder/
+
+      pip install -r requirements.txt
  
  
-Run the Dashboard 
-bash Command
-streamlit run app.py
+      Run the Dashboard 
+       bash Command
+
+     
+      streamlit run app.py
  
  
 
