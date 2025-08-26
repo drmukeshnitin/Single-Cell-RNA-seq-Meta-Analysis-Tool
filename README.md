@@ -124,7 +124,7 @@ For any issues or suggestions, please reach out to:
 
 Author: Dr Mukesh nitin
 
-Email: drrmukeshnitin@gmail.com
+Email: drmukeshnitin@gmail.com
 
 https://github.com/drmukeshnitin/Single-Cell-RNA-seq-Meta-Analysis-Tool
 
